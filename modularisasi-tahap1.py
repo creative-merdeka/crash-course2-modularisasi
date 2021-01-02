@@ -1,4 +1,4 @@
-y"""
+"""
 Program menghitung luas segitga
 r l_s = a*t/2
 """
