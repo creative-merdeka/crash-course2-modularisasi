@@ -1,4 +1,6 @@
 from geometry.segitiga import hitung_luas_segitiga, info as hls # cara std pycharm
+
+
 from geometry.persegi_panjang import hitung_luas_persegi_panjang, info as lpp  #cara std pycharm
 
 print(hls())
